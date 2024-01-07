@@ -1,0 +1,37 @@
+.sidebar-content {
+    display: flex;
+    //NEKI PROBLEM NESTO
+    height: 100%;
+  }
+  
+  .sidebar {
+    background-color: var(--primary);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+    height: 100vh;
+    min-width: 80px;
+    width: 30px;
+    padding: 3vh 0 3vh 0;
+    color: var(--secondary-gray);
+  }
+  
+  .sidebar ul li {
+    margin: 0.4em 0;
+  }
+  
+  .content {
+    width: 100%;
+    height: 100%;
+  }
+  
+  .icon {
+    cursor: pointer;
+    color: var(--secondary-light);
+  
+    &:hover,
+    &.active {
+      color: var(--secondary);
+    }
+  }

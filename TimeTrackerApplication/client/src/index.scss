@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import 'react-image-gallery/styles/scss/image-gallery.scss';
+
+:root {
+  --primary: #34b4eb;
+  --secondary: #ffb100;
+  --primary-light: #87e1e6;
+  --secondary-light: #eae7b1;
+  --secondary-gray: #5f6f94;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body,
+html {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu',
+    'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  height: 100%;
+}
+
+li {
+  list-style: none;
+}
+
+.form-control {
+  width: 100%;
+}
