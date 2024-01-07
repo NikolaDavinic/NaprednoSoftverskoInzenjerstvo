@@ -1,0 +1,160 @@
+C:\Users\Korisnik\source\repos\SignalRExample2\SignalRExample2\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Korisnik\source\repos\SignalRExample2\SignalRExample2\bin\Debug\net7.0\appsettings.json
+C:\Users\Korisnik\source\repos\SignalRExample2\SignalRExample2\bin\Debug\net7.0\SignalRExample2.exe
+C:\Users\Korisnik\source\repos\SignalRExample2\SignalRExample2\bin\Debug\net7.0\SignalRExample2.deps.json
+C:\Users\Korisnik\source\repos\SignalRExample2\SignalRExample2\bin\Debug\net7.0\SignalRExample2.runtimeconfig.json
+C:\Users\Korisnik\source\repos\SignalRExample2\SignalRExample2\bin\Debug\net7.0\SignalRExample2.dll
+C:\Users\Korisnik\source\repos\SignalRExample2\SignalRExample2\bin\Debug\net7.0\SignalRExample2.pdb
+C:\Users\Korisnik\source\repos\SignalRExample2\SignalRExample2\bin\Debug\net7.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Korisnik\source\repos\SignalRExample2\SignalRExample2\bin\Debug\net7.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\Korisnik\source\repos\SignalRExample2\SignalRExample2\bin\Debug\net7.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\Korisnik\source\repos\SignalRExample2\SignalRExample2\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\Korisnik\source\repos\SignalRExample2\SignalRExample2\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\Korisnik\source\repos\SignalRExample2\SignalRExample2\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\Korisnik\source\repos\SignalRExample2\SignalRExample2\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\Korisnik\source\repos\SignalRExample2\SignalRExample2\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Korisnik\source\repos\SignalRExample2\SignalRExample2\bin\Debug\net7.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\Korisnik\source\repos\SignalRExample2\SignalRExample2\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Korisnik\source\repos\SignalRExample2\SignalRExample2\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Korisnik\source\repos\SignalRExample2\SignalRExample2\bin\Debug\net7.0\Microsoft.Extensions.Features.dll
+C:\Users\Korisnik\source\repos\SignalRExample2\SignalRExample2\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\Korisnik\source\repos\SignalRExample2\SignalRExample2\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Korisnik\source\repos\SignalRExample2\SignalRExample2\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Korisnik\source\repos\SignalRExample2\SignalRExample2\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Korisnik\source\repos\SignalRExample2\SignalRExample2\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Korisnik\source\repos\SignalRExample2\SignalRExample2\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Korisnik\source\repos\SignalRExample2\SignalRExample2\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Korisnik\source\repos\SignalRExample2\SignalRExample2\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Korisnik\source\repos\SignalRExample2\SignalRExample2\bin\Debug\net7.0\System.IO.Pipelines.dll
+C:\Users\Korisnik\source\repos\SignalRExample2\SignalRExample2\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+C:\Users\Korisnik\source\repos\SignalRExample2\SignalRExample2\bin\Debug\net7.0\System.Text.Json.dll
+C:\Users\Korisnik\source\repos\SignalRExample2\SignalRExample2\bin\Debug\net7.0\System.Threading.Channels.dll
+C:\Users\Korisnik\source\repos\SignalRExample2\SignalRExample2\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+C:\Users\Korisnik\source\repos\SignalRExample2\SignalRExample2\obj\Debug\net7.0\SignalRExample2.csproj.AssemblyReference.cache
+C:\Users\Korisnik\source\repos\SignalRExample2\SignalRExample2\obj\Debug\net7.0\SignalRExample2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\source\repos\SignalRExample2\SignalRExample2\obj\Debug\net7.0\SignalRExample2.AssemblyInfoInputs.cache
+C:\Users\Korisnik\source\repos\SignalRExample2\SignalRExample2\obj\Debug\net7.0\SignalRExample2.AssemblyInfo.cs
+C:\Users\Korisnik\source\repos\SignalRExample2\SignalRExample2\obj\Debug\net7.0\SignalRExample2.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\SignalRExample2\SignalRExample2\obj\Debug\net7.0\SignalRExample2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Korisnik\source\repos\SignalRExample2\SignalRExample2\obj\Debug\net7.0\SignalRExample2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Korisnik\source\repos\SignalRExample2\SignalRExample2\obj\Debug\net7.0\staticwebassets\msbuild.SignalRExample2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Korisnik\source\repos\SignalRExample2\SignalRExample2\obj\Debug\net7.0\staticwebassets\msbuild.build.SignalRExample2.props
+C:\Users\Korisnik\source\repos\SignalRExample2\SignalRExample2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SignalRExample2.props
+C:\Users\Korisnik\source\repos\SignalRExample2\SignalRExample2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SignalRExample2.props
+C:\Users\Korisnik\source\repos\SignalRExample2\SignalRExample2\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Korisnik\source\repos\SignalRExample2\SignalRExample2\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Korisnik\source\repos\SignalRExample2\SignalRExample2\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Korisnik\source\repos\SignalRExample2\SignalRExample2\obj\Debug\net7.0\scopedcss\bundle\SignalRExample2.styles.css
+C:\Users\Korisnik\source\repos\SignalRExample2\SignalRExample2\obj\Debug\net7.0\SignalRExample2.csproj.CopyComplete
+C:\Users\Korisnik\source\repos\SignalRExample2\SignalRExample2\obj\Debug\net7.0\SignalRExample2.dll
+C:\Users\Korisnik\source\repos\SignalRExample2\SignalRExample2\obj\Debug\net7.0\refint\SignalRExample2.dll
+C:\Users\Korisnik\source\repos\SignalRExample2\SignalRExample2\obj\Debug\net7.0\SignalRExample2.pdb
+C:\Users\Korisnik\source\repos\SignalRExample2\SignalRExample2\obj\Debug\net7.0\SignalRExample2.genruntimeconfig.cache
+C:\Users\Korisnik\source\repos\SignalRExample2\SignalRExample2\obj\Debug\net7.0\ref\SignalRExample2.dll
+E:\Fakultet\Master\Napredno softversko inzenjerstvo\signalR\signalRService\SignalRExample2\bin\Debug\net7.0\appsettings.Development.json
+E:\Fakultet\Master\Napredno softversko inzenjerstvo\signalR\signalRService\SignalRExample2\bin\Debug\net7.0\appsettings.json
+E:\Fakultet\Master\Napredno softversko inzenjerstvo\signalR\signalRService\SignalRExample2\bin\Debug\net7.0\SignalRExample2.exe
+E:\Fakultet\Master\Napredno softversko inzenjerstvo\signalR\signalRService\SignalRExample2\bin\Debug\net7.0\SignalRExample2.deps.json
+E:\Fakultet\Master\Napredno softversko inzenjerstvo\signalR\signalRService\SignalRExample2\bin\Debug\net7.0\SignalRExample2.runtimeconfig.json
+E:\Fakultet\Master\Napredno softversko inzenjerstvo\signalR\signalRService\SignalRExample2\bin\Debug\net7.0\SignalRExample2.dll
+E:\Fakultet\Master\Napredno softversko inzenjerstvo\signalR\signalRService\SignalRExample2\bin\Debug\net7.0\SignalRExample2.pdb
+E:\Fakultet\Master\Napredno softversko inzenjerstvo\signalR\signalRService\SignalRExample2\bin\Debug\net7.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\Fakultet\Master\Napredno softversko inzenjerstvo\signalR\signalRService\SignalRExample2\bin\Debug\net7.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+E:\Fakultet\Master\Napredno softversko inzenjerstvo\signalR\signalRService\SignalRExample2\bin\Debug\net7.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+E:\Fakultet\Master\Napredno softversko inzenjerstvo\signalR\signalRService\SignalRExample2\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Client.dll
+E:\Fakultet\Master\Napredno softversko inzenjerstvo\signalR\signalRService\SignalRExample2\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+E:\Fakultet\Master\Napredno softversko inzenjerstvo\signalR\signalRService\SignalRExample2\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Common.dll
+E:\Fakultet\Master\Napredno softversko inzenjerstvo\signalR\signalRService\SignalRExample2\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+E:\Fakultet\Master\Napredno softversko inzenjerstvo\signalR\signalRService\SignalRExample2\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Fakultet\Master\Napredno softversko inzenjerstvo\signalR\signalRService\SignalRExample2\bin\Debug\net7.0\Microsoft.Bcl.TimeProvider.dll
+E:\Fakultet\Master\Napredno softversko inzenjerstvo\signalR\signalRService\SignalRExample2\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Fakultet\Master\Napredno softversko inzenjerstvo\signalR\signalRService\SignalRExample2\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Fakultet\Master\Napredno softversko inzenjerstvo\signalR\signalRService\SignalRExample2\bin\Debug\net7.0\Microsoft.Extensions.Features.dll
+E:\Fakultet\Master\Napredno softversko inzenjerstvo\signalR\signalRService\SignalRExample2\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+E:\Fakultet\Master\Napredno softversko inzenjerstvo\signalR\signalRService\SignalRExample2\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Fakultet\Master\Napredno softversko inzenjerstvo\signalR\signalRService\SignalRExample2\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\Fakultet\Master\Napredno softversko inzenjerstvo\signalR\signalRService\SignalRExample2\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+E:\Fakultet\Master\Napredno softversko inzenjerstvo\signalR\signalRService\SignalRExample2\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\Fakultet\Master\Napredno softversko inzenjerstvo\signalR\signalRService\SignalRExample2\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Fakultet\Master\Napredno softversko inzenjerstvo\signalR\signalRService\SignalRExample2\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Fakultet\Master\Napredno softversko inzenjerstvo\signalR\signalRService\SignalRExample2\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Fakultet\Master\Napredno softversko inzenjerstvo\signalR\signalRService\SignalRExample2\bin\Debug\net7.0\System.IO.Pipelines.dll
+E:\Fakultet\Master\Napredno softversko inzenjerstvo\signalR\signalRService\SignalRExample2\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+E:\Fakultet\Master\Napredno softversko inzenjerstvo\signalR\signalRService\SignalRExample2\bin\Debug\net7.0\System.Text.Json.dll
+E:\Fakultet\Master\Napredno softversko inzenjerstvo\signalR\signalRService\SignalRExample2\bin\Debug\net7.0\System.Threading.Channels.dll
+E:\Fakultet\Master\Napredno softversko inzenjerstvo\signalR\signalRService\SignalRExample2\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+E:\Fakultet\Master\Napredno softversko inzenjerstvo\signalR\signalRService\SignalRExample2\obj\Debug\net7.0\SignalRExample2.csproj.AssemblyReference.cache
+E:\Fakultet\Master\Napredno softversko inzenjerstvo\signalR\signalRService\SignalRExample2\obj\Debug\net7.0\SignalRExample2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fakultet\Master\Napredno softversko inzenjerstvo\signalR\signalRService\SignalRExample2\obj\Debug\net7.0\SignalRExample2.AssemblyInfoInputs.cache
+E:\Fakultet\Master\Napredno softversko inzenjerstvo\signalR\signalRService\SignalRExample2\obj\Debug\net7.0\SignalRExample2.AssemblyInfo.cs
+E:\Fakultet\Master\Napredno softversko inzenjerstvo\signalR\signalRService\SignalRExample2\obj\Debug\net7.0\SignalRExample2.csproj.CoreCompileInputs.cache
+E:\Fakultet\Master\Napredno softversko inzenjerstvo\signalR\signalRService\SignalRExample2\obj\Debug\net7.0\SignalRExample2.MvcApplicationPartsAssemblyInfo.cs
+E:\Fakultet\Master\Napredno softversko inzenjerstvo\signalR\signalRService\SignalRExample2\obj\Debug\net7.0\SignalRExample2.MvcApplicationPartsAssemblyInfo.cache
+E:\Fakultet\Master\Napredno softversko inzenjerstvo\signalR\signalRService\SignalRExample2\obj\Debug\net7.0\SignalRExample2.sourcelink.json
+E:\Fakultet\Master\Napredno softversko inzenjerstvo\signalR\signalRService\SignalRExample2\obj\Debug\net7.0\staticwebassets.build.json
+E:\Fakultet\Master\Napredno softversko inzenjerstvo\signalR\signalRService\SignalRExample2\obj\Debug\net7.0\staticwebassets.development.json
+E:\Fakultet\Master\Napredno softversko inzenjerstvo\signalR\signalRService\SignalRExample2\obj\Debug\net7.0\staticwebassets\msbuild.SignalRExample2.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Fakultet\Master\Napredno softversko inzenjerstvo\signalR\signalRService\SignalRExample2\obj\Debug\net7.0\staticwebassets\msbuild.build.SignalRExample2.props
+E:\Fakultet\Master\Napredno softversko inzenjerstvo\signalR\signalRService\SignalRExample2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SignalRExample2.props
+E:\Fakultet\Master\Napredno softversko inzenjerstvo\signalR\signalRService\SignalRExample2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SignalRExample2.props
+E:\Fakultet\Master\Napredno softversko inzenjerstvo\signalR\signalRService\SignalRExample2\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Fakultet\Master\Napredno softversko inzenjerstvo\signalR\signalRService\SignalRExample2\obj\Debug\net7.0\scopedcss\bundle\SignalRExample2.styles.css
+E:\Fakultet\Master\Napredno softversko inzenjerstvo\signalR\signalRService\SignalRExample2\obj\Debug\net7.0\SignalRExample2.csproj.CopyComplete
+E:\Fakultet\Master\Napredno softversko inzenjerstvo\signalR\signalRService\SignalRExample2\obj\Debug\net7.0\SignalRExample2.dll
+E:\Fakultet\Master\Napredno softversko inzenjerstvo\signalR\signalRService\SignalRExample2\obj\Debug\net7.0\refint\SignalRExample2.dll
+E:\Fakultet\Master\Napredno softversko inzenjerstvo\signalR\signalRService\SignalRExample2\obj\Debug\net7.0\SignalRExample2.pdb
+E:\Fakultet\Master\Napredno softversko inzenjerstvo\signalR\signalRService\SignalRExample2\obj\Debug\net7.0\SignalRExample2.genruntimeconfig.cache
+E:\Fakultet\Master\Napredno softversko inzenjerstvo\signalR\signalRService\SignalRExample2\obj\Debug\net7.0\ref\SignalRExample2.dll
+D:\Fakultet\Master\Napredno softversko\Projekti\signalR\signalRService\SignalRExample2\bin\Debug\net7.0\appsettings.Development.json
+D:\Fakultet\Master\Napredno softversko\Projekti\signalR\signalRService\SignalRExample2\bin\Debug\net7.0\appsettings.json
+D:\Fakultet\Master\Napredno softversko\Projekti\signalR\signalRService\SignalRExample2\bin\Debug\net7.0\SignalRExample2.exe
+D:\Fakultet\Master\Napredno softversko\Projekti\signalR\signalRService\SignalRExample2\bin\Debug\net7.0\SignalRExample2.deps.json
+D:\Fakultet\Master\Napredno softversko\Projekti\signalR\signalRService\SignalRExample2\bin\Debug\net7.0\SignalRExample2.runtimeconfig.json
+D:\Fakultet\Master\Napredno softversko\Projekti\signalR\signalRService\SignalRExample2\bin\Debug\net7.0\SignalRExample2.dll
+D:\Fakultet\Master\Napredno softversko\Projekti\signalR\signalRService\SignalRExample2\bin\Debug\net7.0\SignalRExample2.pdb
+D:\Fakultet\Master\Napredno softversko\Projekti\signalR\signalRService\SignalRExample2\bin\Debug\net7.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Fakultet\Master\Napredno softversko\Projekti\signalR\signalRService\SignalRExample2\bin\Debug\net7.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+D:\Fakultet\Master\Napredno softversko\Projekti\signalR\signalRService\SignalRExample2\bin\Debug\net7.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\Fakultet\Master\Napredno softversko\Projekti\signalR\signalRService\SignalRExample2\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Client.dll
+D:\Fakultet\Master\Napredno softversko\Projekti\signalR\signalRService\SignalRExample2\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+D:\Fakultet\Master\Napredno softversko\Projekti\signalR\signalRService\SignalRExample2\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Common.dll
+D:\Fakultet\Master\Napredno softversko\Projekti\signalR\signalRService\SignalRExample2\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\Fakultet\Master\Napredno softversko\Projekti\signalR\signalRService\SignalRExample2\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Fakultet\Master\Napredno softversko\Projekti\signalR\signalRService\SignalRExample2\bin\Debug\net7.0\Microsoft.Bcl.TimeProvider.dll
+D:\Fakultet\Master\Napredno softversko\Projekti\signalR\signalRService\SignalRExample2\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Fakultet\Master\Napredno softversko\Projekti\signalR\signalRService\SignalRExample2\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Fakultet\Master\Napredno softversko\Projekti\signalR\signalRService\SignalRExample2\bin\Debug\net7.0\Microsoft.Extensions.Features.dll
+D:\Fakultet\Master\Napredno softversko\Projekti\signalR\signalRService\SignalRExample2\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+D:\Fakultet\Master\Napredno softversko\Projekti\signalR\signalRService\SignalRExample2\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Fakultet\Master\Napredno softversko\Projekti\signalR\signalRService\SignalRExample2\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\Fakultet\Master\Napredno softversko\Projekti\signalR\signalRService\SignalRExample2\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+D:\Fakultet\Master\Napredno softversko\Projekti\signalR\signalRService\SignalRExample2\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Fakultet\Master\Napredno softversko\Projekti\signalR\signalRService\SignalRExample2\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Fakultet\Master\Napredno softversko\Projekti\signalR\signalRService\SignalRExample2\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Fakultet\Master\Napredno softversko\Projekti\signalR\signalRService\SignalRExample2\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Fakultet\Master\Napredno softversko\Projekti\signalR\signalRService\SignalRExample2\bin\Debug\net7.0\System.IO.Pipelines.dll
+D:\Fakultet\Master\Napredno softversko\Projekti\signalR\signalRService\SignalRExample2\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+D:\Fakultet\Master\Napredno softversko\Projekti\signalR\signalRService\SignalRExample2\bin\Debug\net7.0\System.Text.Json.dll
+D:\Fakultet\Master\Napredno softversko\Projekti\signalR\signalRService\SignalRExample2\bin\Debug\net7.0\System.Threading.Channels.dll
+D:\Fakultet\Master\Napredno softversko\Projekti\signalR\signalRService\SignalRExample2\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+D:\Fakultet\Master\Napredno softversko\Projekti\signalR\signalRService\SignalRExample2\obj\Debug\net7.0\SignalRExample2.csproj.AssemblyReference.cache
+D:\Fakultet\Master\Napredno softversko\Projekti\signalR\signalRService\SignalRExample2\obj\Debug\net7.0\SignalRExample2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fakultet\Master\Napredno softversko\Projekti\signalR\signalRService\SignalRExample2\obj\Debug\net7.0\SignalRExample2.AssemblyInfoInputs.cache
+D:\Fakultet\Master\Napredno softversko\Projekti\signalR\signalRService\SignalRExample2\obj\Debug\net7.0\SignalRExample2.AssemblyInfo.cs
+D:\Fakultet\Master\Napredno softversko\Projekti\signalR\signalRService\SignalRExample2\obj\Debug\net7.0\SignalRExample2.csproj.CoreCompileInputs.cache
+D:\Fakultet\Master\Napredno softversko\Projekti\signalR\signalRService\SignalRExample2\obj\Debug\net7.0\SignalRExample2.MvcApplicationPartsAssemblyInfo.cs
+D:\Fakultet\Master\Napredno softversko\Projekti\signalR\signalRService\SignalRExample2\obj\Debug\net7.0\SignalRExample2.MvcApplicationPartsAssemblyInfo.cache
+D:\Fakultet\Master\Napredno softversko\Projekti\signalR\signalRService\SignalRExample2\obj\Debug\net7.0\staticwebassets\msbuild.SignalRExample2.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Fakultet\Master\Napredno softversko\Projekti\signalR\signalRService\SignalRExample2\obj\Debug\net7.0\staticwebassets\msbuild.build.SignalRExample2.props
+D:\Fakultet\Master\Napredno softversko\Projekti\signalR\signalRService\SignalRExample2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SignalRExample2.props
+D:\Fakultet\Master\Napredno softversko\Projekti\signalR\signalRService\SignalRExample2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SignalRExample2.props
+D:\Fakultet\Master\Napredno softversko\Projekti\signalR\signalRService\SignalRExample2\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Fakultet\Master\Napredno softversko\Projekti\signalR\signalRService\SignalRExample2\obj\Debug\net7.0\staticwebassets.build.json
+D:\Fakultet\Master\Napredno softversko\Projekti\signalR\signalRService\SignalRExample2\obj\Debug\net7.0\staticwebassets.development.json
+D:\Fakultet\Master\Napredno softversko\Projekti\signalR\signalRService\SignalRExample2\obj\Debug\net7.0\scopedcss\bundle\SignalRExample2.styles.css
+D:\Fakultet\Master\Napredno softversko\Projekti\signalR\signalRService\SignalRExample2\obj\Debug\net7.0\SignalRExample2.csproj.CopyComplete
+D:\Fakultet\Master\Napredno softversko\Projekti\signalR\signalRService\SignalRExample2\obj\Debug\net7.0\SignalRExample2.dll
+D:\Fakultet\Master\Napredno softversko\Projekti\signalR\signalRService\SignalRExample2\obj\Debug\net7.0\refint\SignalRExample2.dll
+D:\Fakultet\Master\Napredno softversko\Projekti\signalR\signalRService\SignalRExample2\obj\Debug\net7.0\SignalRExample2.pdb
+D:\Fakultet\Master\Napredno softversko\Projekti\signalR\signalRService\SignalRExample2\obj\Debug\net7.0\SignalRExample2.genruntimeconfig.cache
+D:\Fakultet\Master\Napredno softversko\Projekti\signalR\signalRService\SignalRExample2\obj\Debug\net7.0\ref\SignalRExample2.dll
